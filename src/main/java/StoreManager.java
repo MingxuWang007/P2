@@ -38,8 +38,7 @@ public class StoreManager {
 
 
     public void run() {
-        LoginUI ui = new LoginUI();
-        ui.view.setVisible(true);
+     MainUI
     }
 
     public static void main(String[] args) {
